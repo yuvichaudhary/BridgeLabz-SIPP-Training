@@ -20,4 +20,5 @@ This repository contains training materials, exercises, and code for the BridgeL
 ---
 
 ### 🗓 01 – Java Programming Elements (09 June)  
+## Assignment Link:-
 📁 [Java-Programming-Elements](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/Core-Java/Java-Programming-Elements)
