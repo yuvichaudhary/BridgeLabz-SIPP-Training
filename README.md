@@ -8,4 +8,3 @@ This repository contains training materials, exercises, and code for the BridgeL
 - OOPS(Object Oriented Programming)
 - DSA(Data Structures and Algorithms
 - Generics
-- 
