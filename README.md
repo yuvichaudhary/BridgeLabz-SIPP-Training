@@ -15,7 +15,7 @@ This repository contains training materials, exercises, and code for the BridgeL
 
 ## 📆 Week 1: Core Java  
 *Branch:* [Core-Java](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/Core-Java)  
-*Duration:* 09 June 2025 - 21 June 2025
+*Duration:* 09 June 2025 - 13 June 2025
 
 ---
 
@@ -34,4 +34,28 @@ This repository contains training materials, exercises, and code for the BridgeL
 ### 🗓 03 – Java Built-in Function (13 June) 
 ## Assignment Link:-
 📁 [Java-Built-in-Function](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/Core-Java/Java-Built-In-Function)
+
+---
+
+## 📆 Week 2: Core Java  
+*Branch:* [Core-Java](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/Core-Java)  
+*Duration:* 17 June 2025 - 20 June 2025
+
+---
+
+### 🗓 04 – Java-Array (16 June) 
+## Assignment Link:-
+📁 [Java-Array](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/Core-Java/Java-Array)
+
+---
+
+### 🗓 05 – Java-Methods (18 June) 
+## Assignment Link:-
+📁 [Java-Methods](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/Core-Java/Java-Methods)
+
+---
+
+### 🗓 06 – Java-Strings (20 June) 
+## Assignment Link:-
+📁 [Java-Strings](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/Core-Java/Java-Strings)
 
