@@ -13,7 +13,7 @@ This repository contains training materials, exercises, and code for the BridgeL
 | [OOPS](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/OOPS) |Class And Object , Constructors , Keywords , Design Principles , Inheritance , Encapsulation , Polymorphism , Interface  |
 | [DSA](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/DSA) |LinkedList , Stack , Queue , HashMap And Hashing Function , Sorting , Linear And Binary Search , Runtime Analysis & Big-O-Notation  |
 
-## 📆 Week 1: Core Java  
+## 📆 Week 01: Core Java  
 *Branch:* [Core-Java](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/Core-Java)  
 *Duration:* 09 June 2025 - 13 June 2025
 
@@ -37,7 +37,7 @@ This repository contains training materials, exercises, and code for the BridgeL
 
 ---
 
-## 📆 Week 2: Core Java  
+## 📆 Week 02: Core Java  
 *Branch:* [Core-Java](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/Core-Java)  
 *Duration:* 16 June 2025 - 20 June 2025
 
@@ -61,7 +61,7 @@ This repository contains training materials, exercises, and code for the BridgeL
 
 ---
 
-## 📆 Week 3: OOPS
+## 📆 Week 03: OOPS
 *Branch:* [OOPS](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/OOPS)  
 *Duration:* 23 June 2025 - 28 June 2025
 
@@ -85,7 +85,7 @@ This repository contains training materials, exercises, and code for the BridgeL
 
 ---
 
-## 📆 Week 4: OOPS
+## 📆 Week 04: OOPS
 *Branch:* [OOPS](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/OOPS)  
 *Duration:* 01 July 2025 - 04 July 2025
 
@@ -102,15 +102,61 @@ This repository contains training materials, exercises, and code for the BridgeL
 
 ---
 
-## 📆 Week 5: OOPS & DSA
-*Branch:* [OOPS](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/OOPS) & [DSA](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/DSA)  
-*Duration:* 01 July 2025 - 04 July 2025
+## 📆 Week 05(A): OOPS
+*Branch:* [OOPS](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/OOPS)  
+*Duration:* 07 July 2025 - 07 July 2025
 
 ---
 
-### 🗓 06 – Encapsulation (08 July) 
+### 🗓 06 – Encapsulation (07 July) 
 ## Assignment Link:-
 📁 [Encapsulation](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/OOPS/Encapsulation)
+
+---
+## 📆 Week 05(B): DSA
+*Branch:* [DSA](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/DSA) 
+*Duration:* 08 July 2025 - 11 July 2025
+
+---
+
+### 🗓 01 – LinkedList (08 July) 
+## Assignment Link:-
+📁 [LinkedList](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/DSA/LinkedList)
+
+---
+
+### 🗓 02 – Stack (10 July) 
+## Assignment Link:-
+📁 [Stack](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/DSA/Stack)
+
+---
+
+### 🗓 03 – Sorting (11 July) 
+## Assignment Link:-
+📁 [Sorting](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/DSA/Sorting)
+
+---
+
+## 📆 Week 06: DSA
+*Branch:* [DSA](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/DSA) 
+*Duration:* 14 July 2025 - 18 July 2025
+
+---
+
+### 🗓 04 – Binary And LinearSearch (15 July) 
+## Assignment Link:-
+📁 [Binary And LinearSearch](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/DSA/BinaryAndLinearSearch)
+
+---
+
+### 🗓 05 – Big-O-Notation (17 July) 
+## Assignment Link:-
+📁 [Big-O-Notation](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/DSA/Big-O-Notation)
+
+
+
+
+
 
 
 
