@@ -1,10 +1,16 @@
 # BridgeLabz-SIPP-Training
 
 This repository contains training materials, exercises, and code for the BridgeLabz SIPP program.
+> ✅ *Core-Java* • ✅ *OOPs* • ✅ *Workshop* • ✅ *DSA*
+
 
 ## Contents
+## 📚 Branch Overview
 
-- Core-Java
-- OOPS(Object Oriented Programming)
-- DSA(Data Structures and Algorithms
-- Generics
+| Branch Name | Description |
+|-------------|-------------|
+| [Core-Java](https://github.com/Prashantbansall/BridgeLabz-SIPP-Training/tree/Core-Java) | Covers foundational Java concepts like variables, control flows, data types, loops, and more |
+| OOPs | Object-Oriented Programming principles in Java  |
+| Workshop | Hands-on exercises, group projects, and code challenges|
+| DSA | Data Structures and Algorithms using Java  |
+
