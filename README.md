@@ -24,6 +24,15 @@ This repository contains training materials, exercises, and code for the BridgeL
 ---
 
 ### 🗓 01 – Java Programming Elements (09 June)  
+#### 🗓  Concepts Covered:
+1. 📝 Java Comments – Single-line (//) and multi-line (/* */) documentation  
+2. 📦 Basic Data Types – int, float, double, char, boolean  
+3. 🧠 Variables – Declaration, initialization, and scope  
+4. ➕ Arithmetic Operators – +, -, *, /, %  
+5. 🎯 Operator Precedence – Evaluation order in expressions  
+6. 🔁 Type Conversion – Implicit (widening) and explicit (casting)  
+7. 🎤 User Input – Using Scanner class to read input from console  
+
 ## Assignment Link:-
 📁 [Java-Programming-Elements](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/Core-Java/Java-Programming-Elements)
 
