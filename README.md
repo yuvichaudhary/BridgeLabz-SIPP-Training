@@ -39,28 +39,28 @@ This repository contains training materials, exercises, and code for the BridgeL
 ---
 
 ### 🗓 02 – Java Control Flows (11 June)  
-1.Java Control Flows 🔁
+1.🔁Java Control Flows :-
 Controls the path your program takes during execution.
 
-2.Boolean Data Type ⚖️
+2.⚖️Boolean Data Type :-
 Holds only true or false values.
 
-3.Boolean Expressions ❓
+3.❓Boolean Expressions :-
 Expressions that evaluate to either true or false.
 
-4.Logical Operators 🔗
+4.🔗Logical Operators :-
 Combine boolean values using &&, ||, and !.
 
-5.if-else Statements 🧠
+5.🧠if-else Statements :-
 Makes decisions based on conditions.
 
-6.Java Loops (for & while) 🔄
+6.🔄Java Loops (for & while) :-
 Repeats code blocks multiple times.
 
-7.break & continue ⛔➡️
+7.⛔➡️Break & continue :-
 break exits loops, continue skips steps.
 
-8.switch Statement 🔘
+8.🔘switch Statement :-
 Picks a code block to run based on variable value.
 
 ## Assignment Link:-
