@@ -39,7 +39,7 @@ This repository contains training materials, exercises, and code for the BridgeL
 
 ## 📆 Week 2: Core Java  
 *Branch:* [Core-Java](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/Core-Java)  
-*Duration:* 17 June 2025 - 20 June 2025
+*Duration:* 16 June 2025 - 20 June 2025
 
 ---
 
@@ -58,4 +58,18 @@ This repository contains training materials, exercises, and code for the BridgeL
 ### 🗓 06 – Java-Strings (20 June) 
 ## Assignment Link:-
 📁 [Java-Strings](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/Core-Java/Java-Strings)
+
+---
+
+## 📆 Week 2: OOPS
+*Branch:* [OOPS](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/OOPS)  
+*Duration:* 23 June 2025 - 27 June 2025
+
+---
+
+### 🗓 01 – Class And Object (23 June) 
+## Assignment Link:-
+📁 [Class And Object](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/OOPS/ClassAndObject)  
+
+
 
