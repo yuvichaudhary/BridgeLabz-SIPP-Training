@@ -1,7 +1,7 @@
 # BridgeLabz-SIPP-Training
 
 This repository contains training materials, exercises, and code for the BridgeLabz SIPP program.
-> ✅ *Core-Java* • ✅ *OOPs* • ✅ *Workshop* • ✅ *DSA*
+> ✅ *Core-Java* • ✅ *OOPs*  • ✅ *DSA*
 
 
 ## Contents
