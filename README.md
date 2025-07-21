@@ -9,7 +9,7 @@ This repository contains training materials, exercises, and code for the BridgeL
 
 | Branch Name | Description |
 |-------------|-------------|
-| [Core-Java]( https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/Core-Java)| Covers foundational Java concepts like variables, control flows, data types, loops, and more |
-| [OOPS](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/OOPS) | Object-Oriented Programming principles in Java  |
-| DSA | Data Structures and Algorithms using Java  |
+| [Core-Java]( https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/Core-Java)|Basic Programming Elements , Control Flow , Array , Strings , Methods , Built-in-function|
+| [OOPS](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/OOPS) |Class And Object , Constructors , Keywords , Design Principles , Inheritance , Encapsulation , Polymorphism , Interface  |
+| [DSA](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/DSA) |LinkedList , Stack , Queue , HashMap And Hashing Function , Sorting , Linear And Binary Search , Runtime Analysis & Big-O-Notation  |
 
