@@ -61,15 +61,57 @@ This repository contains training materials, exercises, and code for the BridgeL
 
 ---
 
-## 📆 Week 2: OOPS
+## 📆 Week 3: OOPS
 *Branch:* [OOPS](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/OOPS)  
-*Duration:* 23 June 2025 - 27 June 2025
+*Duration:* 23 June 2025 - 28 June 2025
 
 ---
 
 ### 🗓 01 – Class And Object (23 June) 
 ## Assignment Link:-
-📁 [Class And Object](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/OOPS/ClassAndObject)  
+📁 [Class And Object](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/OOPS/Class%20And%20Object)
+
+---
+
+### 🗓 02 – Constructor (25 June) 
+## Assignment Link:-
+📁 [Constructor](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/OOPS/Constructor)
+
+---
+
+### 🗓 03 – Keywords (27 June) 
+## Assignment Link:-
+📁 [Keywords](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/OOPS/Keywords)
+
+---
+
+## 📆 Week 4: OOPS
+*Branch:* [OOPS](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/OOPS)  
+*Duration:* 01 July 2025 - 04 July 2025
+
+---
+
+### 🗓 04 – object_modeling_and_Class_diagram ( 01 July) 
+## Assignment Link:-
+📁 [object_modeling_and_Class_diagram](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/OOPS/object_modeling_and_Class_diagram)
+
+
+### 🗓 05 – Inheritence (03 July) 
+## Assignment Link:-
+📁 [Inheritence](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/OOPS/Inheritence)
+
+---
+
+## 📆 Week 5: OOPS & DSA
+*Branch:* [OOPS](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/OOPS) & [DSA](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/DSA)  
+*Duration:* 01 July 2025 - 04 July 2025
+
+---
+
+### 🗓 06 – Encapsulation (08 July) 
+## Assignment Link:-
+📁 [Encapsulation](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/OOPS/Encapsulation)
+
 
 
 
