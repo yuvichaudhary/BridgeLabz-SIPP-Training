@@ -22,3 +22,12 @@ This repository contains training materials, exercises, and code for the BridgeL
 ### 🗓 01 – Java Programming Elements (09 June)  
 ## Assignment Link:-
 📁 [Java-Programming-Elements](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/Core-Java/Java-Programming-Elements)
+
+### 🗓 02 – Java Control Flows (11 June)  
+## Assignment Link:-
+📁 [Java-Control-Flows](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/Core-Java/Java-Control-Flow)
+
+### 🗓 03 – Java Built-in Function (13 June) 
+## Assignment Link:-
+📁 [Java-Built-in-Function](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/Core-Java/Java-Built-In-Function)
+
