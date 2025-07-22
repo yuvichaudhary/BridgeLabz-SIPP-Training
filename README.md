@@ -122,6 +122,33 @@ Picks a code block to run based on variable value.
 ---
 
 ### 🗓 06 – Java-Strings (20 June) 
+### 🧠 Concepts:
+📄 Java Strings – A sequence of characters enclosed in double quotes.
+
+🛠️ Create Strings – Strings can be created using literals or with the new keyword.
+
+🔙 Use of "\" Escape Sequence – Enables special characters like newline, tab, or quotes inside strings.
+
+🎤 Take String Input – Strings are taken from users using input classes like Scanner.
+
+📚 String Arrays – An array that holds multiple string values.
+
+🎯 String as Method Parameters – Strings can be passed to methods just like other data types.
+
+🧰 String Class Built-In Methods – Methods like length, substring, equals, and toUpperCase are commonly used.
+
+🔤 ASCII Character Codes – Each character corresponds to a numeric ASCII value.
+
+⚠️ Java Exceptions – Events that disrupt normal program flow during execution.
+
+🏗️ Java Exception Hierarchy – All exceptions stem from the Throwable class, split into Error and Exception.
+
+🧩 Java Exception Types – Java has checked exceptions, unchecked exceptions, and errors.
+
+🚫 Unchecked Exceptions – Runtime exceptions not checked at compile time.
+
+✅ Checked Exceptions – Compile-time exceptions that must be handled or declared.
+
 ## Assignment Link:-
 📁 [Java-Strings](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/Core-Java/Java-Strings)
 
@@ -134,18 +161,81 @@ Picks a code block to run based on variable value.
 ---
 
 ### 🗓 01 – Class And Object (23 June) 
+### 🧠 Concepts:
++-----------------------+           +-----------------------+
+|       CLASS 🏛️         |           |      OBJECT 🧱         |
+|-----------------------|   ==>     |-----------------------|
+| Blueprint / Template | --------> | Real instance in memory|
+| No memory allocation |           | Memory is allocated   |
+| Code definition only |           | Contains real values  |
++-----------------------+           +-----------------------+
+
+🏛️ Class – A blueprint defined using the class keyword, containing fields and methods.
+
+💾 Memory – A class doesn't occupy memory until you create an object.
+
+🧱 Object – An instance of a class; holds actual data and uses memory.
+
+🔨 Constructor – Special method that runs when an object is created to initialize it.
+
+🗃️ Multiple Objects – You can create many objects from one class; each has its own data.
+
+♻️ Garbage Collector – Frees up memory by removing objects no longer in use.
+
 ## Assignment Link:-
 📁 [Class And Object](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/OOPS/Class%20And%20Object)
 
 ---
 
 ### 🗓 02 – Constructor (25 June) 
+### 🧠 Concepts:
+🏗️ A constructor is a special method used to initialize objects when they are created.
+
+🧱 Same name as the class – A constructor must have the exact same name as the class.
+
+⚙️ No return type – Unlike methods, constructors do not have a return type, not even void.
+
+🔄 Automatically called – Runs automatically when an object is created.
+
+📦 Types of Constructors:
+
+🆕 Default Constructor – No parameters, created automatically if you don’t define any.
+
+🎯 Parameterized Constructor – Accepts parameters to set initial values.
+
+🔁 Constructor Overloading – Multiple constructors with different parameter lists.
+
+🧰 Used to set initial values – Often used to assign values to object fields during creation.
+
+🪞 Can call other constructors – Use this() to call another constructor in the same class.
+
 ## Assignment Link:-
 📁 [Constructor](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/OOPS/Constructor)
 
 ---
 
 ### 🗓 03 – Keywords (27 June) 
+### 🧠 Concepts:
+🔑 Keywords in Java are reserved words that have a predefined meaning in the language and cannot be used as identifiers like variable or method names.
+
+class – 🏛️ Declares a class.
+
+new – 🆕 Creates a new object.
+
+this – 🪞 Refers to the current object.
+
+super – 🧬 Refers to the parent class.
+
+extends – 🧱 Inherits from a superclass.
+
+implements – 🧩 Implements an interface.
+
+interface – 🎛️ Declares an interface.
+
+abstract – 🌀 Declares an abstract class or method.
+
+final – 🔒 Prevents inheritance, method overriding, or variable change.
+
 ## Assignment Link:-
 📁 [Keywords](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/OOPS/Keywords)
 
@@ -158,11 +248,59 @@ Picks a code block to run based on variable value.
 ---
 
 ### 🗓 04 – object_modeling_and_Class_diagram ( 01 July) 
+### 🧠 Concepts:
+🧱 Class Diagram shows the static structure of a system by representing classes, attributes, methods, and relationships.
+📐 What It Includes:
+Class Name
+
+Attributes (Fields)
+
+Methods (Functions)
+
+Relationships:
+
+🧬 Inheritance (is-a)
+
+🤝 Association (has-a)
+
+🎯 Dependency
+
+🔗 Aggregation / Composition
+
+🔄 Sequence Diagram shows the dynamic interaction between objects over time, highlighting the order of message exchanges.
+
+🧩 What It Includes:
+
+Objects/Actors across the top
+
+Lifelines (vertical dashed lines)
+
+Messages (horizontal arrows)
+
+Activation Bars (when an object is active)
+
+Return messages
+
 ## Assignment Link:-
 📁 [object_modeling_and_Class_diagram](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/OOPS/object_modeling_and_Class_diagram)
 
 
-### 🗓 05 – Inheritence (03 July) 
+### 🗓 05 – Inheritence (03 July)
+### 🧠 Concepts:
+🧬 Inheritance allows one class (subclass) to acquire the properties and behaviors (fields and methods) of another class (superclass).
+
+🏛️ Superclass (Parent Class) – The class whose properties are inherited.
+
+🧱 Subclass (Child Class) – The class that inherits from another class using the extends keyword.
+
+🔁 Reusability – Inheritance promotes code reuse and logical hierarchy.
+
+🎯 Method Overriding – Subclass can redefine superclass methods to change behavior.
+
+🔒 Access Control – protected members can be accessed in subclasses.
+
+🚫 Single Inheritance Only – Java does not support multiple inheritance with classes (but allows it via interfaces).
+
 ## Assignment Link:-
 📁 [Inheritence](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/OOPS/Inheritence)
 
@@ -175,6 +313,19 @@ Picks a code block to run based on variable value.
 ---
 
 ### 🗓 06 – Encapsulation (07 July) 
+### 🧠 Concepts:
+🔐 Encapsulation is the wrapping of data (fields) and methods into a single unit (class), with controlled access using access modifiers.
+
+🔒 Private Variables – Class fields are made private to restrict direct access.
+
+🚪 Public Getters/Setters – Access to private fields is provided via public methods.
+
+🛡️ Data Hiding – Prevents external code from modifying internal state directly.
+
+🧱 Class-Level Protection – Encapsulation makes a class self-contained and secure.
+
+🧰 Easier Maintenance – Changes to implementation can be made without affecting outside code.
+
 ## Assignment Link:-
 📁 [Encapsulation](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/OOPS/Encapsulation)
 
@@ -186,18 +337,24 @@ Picks a code block to run based on variable value.
 ---
 
 ### 🗓 01 – LinkedList (08 July) 
+### 🧠 Concepts:
+
 ## Assignment Link:-
 📁 [LinkedList](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/DSA/LinkedList)
 
 ---
 
 ### 🗓 02 – Stack (10 July) 
+### 🧠 Concepts:
+
 ## Assignment Link:-
 📁 [Stack](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/DSA/Stack)
 
 ---
 
-### 🗓 03 – Sorting (11 July) 
+### 🗓 03 – Sorting (11 July)
+### 🧠 Concepts:
+
 ## Assignment Link:-
 📁 [Sorting](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/DSA/Sorting)
 
@@ -210,12 +367,16 @@ Picks a code block to run based on variable value.
 ---
 
 ### 🗓 04 – Binary And LinearSearch (15 July) 
+### 🧠 Concepts:
+
 ## Assignment Link:-
 📁 [Binary And LinearSearch](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/DSA/BinaryAndLinearSearch)
 
 ---
 
 ### 🗓 05 – Big-O-Notation (17 July) 
+### 🧠 Concepts:
+
 ## Assignment Link:-
 📁 [Big-O-Notation](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/DSA/Big-O-Notation)
 
