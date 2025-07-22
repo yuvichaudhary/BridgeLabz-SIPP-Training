@@ -24,7 +24,7 @@ This repository contains training materials, exercises, and code for the BridgeL
 ---
 
 ### 🗓 01 – Java Programming Elements (09 June)  
-#### 🧠  Concepts:
+### 🧠 Concepts:
 1. 📝 Java Comments – Single-line (//) and multi-line (/* */) documentation  
 2. 📦 Basic Data Types – int, float, double, char, boolean  
 3. 🧠 Variables – Declaration, initialization, and scope  
