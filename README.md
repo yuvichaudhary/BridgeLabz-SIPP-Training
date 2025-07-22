@@ -102,6 +102,20 @@ Picks a code block to run based on variable value.
 ---
 
 ### 🗓 05 – Java-Methods (18 June) 
+### 🧠 Concepts:
+### 🧩 Types of Methods in Java:-
+   🧱 Predefined Method – Built-in methods provided by Java libraries.
+
+   🛠️ User-defined Method – Custom methods created by the programmer.
+
+   🔁 Static Method – Belongs to the class, can be called without an object.
+
+   📦 Instance Method – Belongs to an object; needs object creation to call.
+
+   🔄 Parameterised Method – Takes inputs (parameters) to perform operations.
+
+   🎯 Return Type Method – Returns a value after execution.
+
 ## Assignment Link:-
 📁 [Java-Methods](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/Core-Java/Java-Methods)
 
