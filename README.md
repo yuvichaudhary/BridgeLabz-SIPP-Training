@@ -69,6 +69,13 @@ Picks a code block to run based on variable value.
 ---
 
 ### 🗓 03 – Java Built-in Function (13 June) 
+### ✅ Concepts Covered:
+1. ➕ Math Class – Standard mathematical operations like sqrt(), pow(), abs()
+ 
+2. 🎲 Random Class – Generating random numbers
+   
+3. 📅 Java 8 Date-Time API – LocalDate, LocalTime, LocalDateTime for handling time and date effectively
+
 ## Assignment Link:-
 📁 [Java-Built-in-Function](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/Core-Java/Java-Built-In-Function)
 
