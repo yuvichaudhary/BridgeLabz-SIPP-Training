@@ -24,7 +24,7 @@ This repository contains training materials, exercises, and code for the BridgeL
 ---
 
 ### 🗓 01 – Java Programming Elements (09 June)  
-#### 🗓  Concepts Covered:
+#### 🧠  Concepts:
 1. 📝 Java Comments – Single-line (//) and multi-line (/* */) documentation  
 2. 📦 Basic Data Types – int, float, double, char, boolean  
 3. 🧠 Variables – Declaration, initialization, and scope  
@@ -39,6 +39,7 @@ This repository contains training materials, exercises, and code for the BridgeL
 ---
 
 ### 🗓 02 – Java Control Flows (11 June)  
+### 🧠 Concepts:
 1.🔁Java Control Flows :-
 Controls the path your program takes during execution.
 
@@ -69,7 +70,7 @@ Picks a code block to run based on variable value.
 ---
 
 ### 🗓 03 – Java Built-in Function (13 June) 
-### ✅ Concepts Covered:
+### 🧠 Concepts:
 1. ➕ Math Class – Standard mathematical operations like sqrt(), pow(), abs()
  
 2. 🎲 Random Class – Generating random numbers
