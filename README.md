@@ -91,7 +91,9 @@ Picks a code block to run based on variable value.
 ### 🗓 04 – Java-Array (16 June) 
 ### 🧠 Concepts:
 📦 Array – A container that holds multiple values of the same type in a single variable, accessible by index.
+
    🔹 Single-Dimensional Array – A linear array that stores elements in a single row.
+   
    🔸 Multi-Dimensional Array – An array of arrays, like a table (2D) or matrix.
 
 ## Assignment Link:-
