@@ -338,6 +338,15 @@ Return messages
 
 ### 🗓 01 – LinkedList (08 July) 
 ### 🧠 Concepts:
+A linked list is a linear data structure where each element points to the next 🧩➡️.
+
+➡️ Singly Linked List – Each node points to the next one 🧩➡️🧩➡️None
+
+🔁 Doubly Linked List – Nodes point both forward and backward 🧩↔️🧩↔️🧩
+
+🔄 Circular Linked List – Last node connects back to the first 🧩➡️🧩➡️🧩↩️
+
+♻️ Circular Doubly Linked List – Nodes link both directions in a loop 🧩⟷🧩⟷🧩
 
 ## Assignment Link:-
 📁 [LinkedList](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/DSA/LinkedList)
@@ -346,6 +355,34 @@ Return messages
 
 ### 🗓 02 – Stack (10 July) 
 ### 🧠 Concepts:
+### ⭐ Stack :-
+
+⭐ Use stacks for recursion, backtracking, and nested structures.
+
+⭐ Set proper stack size to avoid memory overflow.
+
+⭐ Always define base cases to prevent infinite recursion.
+
+⭐ Use atomic push/pop in multi-threaded environments.
+
+⭐ Validate stack underflow/overflow before operations.
+
+⭐ Prefer built-in structures like Deque over custom stacks.
+
+⭐ Use an auxiliary stack to track min/max in O(1) time.
+
+### ⭐ Queue :-
+⭐ Use queues for FIFO tasks like BFS and scheduling.
+
+⭐ Choose the right queue type: simple, deque, or priority.
+
+⭐ Use thread-safe queues in concurrent environments.
+
+⭐ Always check for underflow/overflow conditions.
+
+⭐ Avoid polling empty queues—use blocking patterns.
+
+⭐ Apply lazy deletion in priority queues for performance.
 
 ## Assignment Link:-
 📁 [Stack](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/DSA/Stack)
