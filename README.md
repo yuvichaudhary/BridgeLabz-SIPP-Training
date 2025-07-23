@@ -162,13 +162,15 @@ Picks a code block to run based on variable value.
 
 ### 🗓 01 – Class And Object (23 June) 
 ### 🧠 Concepts:
-+-----------------------+           +-----------------------+
-|       CLASS 🏛️         |           |      OBJECT 🧱         |
-|-----------------------|   ==>     |-----------------------|
-| Blueprint / Template | --------> | Real instance in memory|
-| No memory allocation |           | Memory is allocated   |
-| Code definition only |           | Contains real values  |
-+-----------------------+           +-----------------------+
+
+## 🏛️ Class vs 🧱 Object
+
+| CLASS 🏛️               | OBJECT 🧱                  |
+|------------------------|---------------------------|
+| Blueprint / Template   | Real instance in memory   |
+| No memory allocation   | Memory is allocated       |
+| Code definition only   | Contains real values      |
+
 
 🏛️ Class – A blueprint defined using the class keyword, containing fields and methods.
 
@@ -391,6 +393,14 @@ A linked list is a linear data structure where each element points to the next �
 
 ### 🗓 03 – Sorting (11 July)
 ### 🧠 Concepts:
+### 🔄 Sorting Algorithms : Sorting is the process of arranging data in a specific order
+🫧 Bubble Sort: Repeatedly "bubbles" larger elements to the end by swapping adjacent pairs – simple but slow (O(n²)).
+
+✍️ Insertion Sort: Inserts each element into its correct place like writing a sorted list by hand – efficient for small/nearly sorted data (O(n²)).
+
+🧩 Merge Sort: Divides the array into pieces and merges them in order – reliable and stable (O(n log n)).
+
+⚡ Quick Sort: Picks a pivot and quickly partitions the array around it – fast and efficient on average (O(n log n), worst O(n²)).
 
 ## Assignment Link:-
 📁 [Sorting](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/DSA/Sorting)
@@ -405,6 +415,29 @@ A linked list is a linear data structure where each element points to the next �
 
 ### 🗓 04 – Binary And LinearSearch (15 July) 
 ### 🧠 Concepts:
+### 1. 🔁 Linear Search
+it is checks each element one by one until it finds the target.
+
+Use when: The list is unsorted or very small.
+
+### Time Complexity:
+
+🕒 Worst case: O(n)
+
+🟢 Best case: O(1) (if the element is first)
+
+Example: Searching for a name in a random list.
+
+### 2. 🪄 Binary Search
+ it is repeatedly divides the sorted array in half to find the target.
+
+Use when: The list is sorted.
+
+### Time Complexity:
+
+⚡ Worst case: O(log n)
+
+🔝 Best case: O(1) (if the element is in the middle)
 
 ## Assignment Link:-
 📁 [Binary And LinearSearch](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/DSA/BinaryAndLinearSearch)
@@ -413,6 +446,27 @@ A linked list is a linear data structure where each element points to the next �
 
 ### 🗓 05 – Big-O-Notation (17 July) 
 ### 🧠 Concepts:
+### ⏱️ Runtime Analysis:-
+Runtime analysis helps you understand how the performance of an algorithm changes as the size of input grows.
+
+🧮 Time complexity: How many steps an algorithm takes.
+
+📦 Space complexity: How much memory it uses.
+
+### 🅾️ Big-O Notation:-
+Big-O notation describes the worst-case growth rate of an algorithm as input size (n) increases
+
+### 📊 Common Big-O Complexities:-
+
+| Notation       | Name                   | Example Algorithm            | Performance as `n` Grows       |
+|----------------|------------------------|-------------------------------|--------------------------------|
+| O(1)           | Constant Time ⏸️        | Accessing an array element    | Excellent ✅                    |
+| O(log n)       | Logarithmic Time 📉     | Binary Search                 | Great 👍                        |
+| O(n)           | Linear Time 📏          | Linear Search                 | Okay 👌                         |
+| O(n log n)     | Log-Linear Time 📈      | Merge Sort, Quick Sort        | Good for sorting 🔄            |
+| O(n²)          | Quadratic Time 🐌       | Bubble Sort, Insertion Sort   | Slower ❗                       |
+| O(2ⁿ) / O(n!)  | Exponential/Factorial 🚨| Recursive brute-force         | Impractical 😱                 |
+
 
 ## Assignment Link:-
 📁 [Big-O-Notation](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/DSA/Big-O-Notation)
