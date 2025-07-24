@@ -456,7 +456,7 @@ Runtime analysis helps you understand how the performance of an algorithm change
 ### 🅾️ Big-O Notation:-
 Big-O notation describes the worst-case growth rate of an algorithm as input size (n) increases
 
-### 📊 Common Big-O Complexities:-
+📊 Common Big-O Complexities:-
 
 | Notation       | Name                   | Example Algorithm            | Performance as `n` Grows       |
 |----------------|------------------------|-------------------------------|--------------------------------|
