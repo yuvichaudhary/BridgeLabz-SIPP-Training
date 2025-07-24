@@ -139,15 +139,7 @@ Picks a code block to run based on variable value.
 
 🔤 ASCII Character Codes – Each character corresponds to a numeric ASCII value.
 
-⚠️ Java Exceptions – Events that disrupt normal program flow during execution.
 
-🏗️ Java Exception Hierarchy – All exceptions stem from the Throwable class, split into Error and Exception.
-
-🧩 Java Exception Types – Java has checked exceptions, unchecked exceptions, and errors.
-
-🚫 Unchecked Exceptions – Runtime exceptions not checked at compile time.
-
-✅ Checked Exceptions – Compile-time exceptions that must be handled or declared.
 
 ## Assignment Link:-
 📁 [Java-Strings](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/Core-Java/Java-Strings)
@@ -456,7 +448,7 @@ Runtime analysis helps you understand how the performance of an algorithm change
 ### 🅾️ Big-O Notation:-
 Big-O notation describes the worst-case growth rate of an algorithm as input size (n) increases
 
-📊 Common Big-O Complexities:-
+## 📊 Common Big-O Complexities:-
 
 | Notation       | Name                   | Example Algorithm            | Performance as `n` Grows       |
 |----------------|------------------------|-------------------------------|--------------------------------|
