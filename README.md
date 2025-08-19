@@ -9,6 +9,8 @@ This repository contains training materials, exercises, and code for the BridgeL
 
 > • ✅ *Generics&Collections*
 
+> • ✅ *Java-8* 
+
 
 ## Contents
 ## 📚 Branch Overview
@@ -19,6 +21,7 @@ This repository contains training materials, exercises, and code for the BridgeL
 | [OOPS](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/OOPS) |Class And Object , Constructors , Keywords , Design Principles , Inheritance , Encapsulation , Polymorphism , Interface  |
 | [DSA](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/DSA) |LinkedList , Stack , Queue , HashMap And Hashing Function , Sorting , Linear And Binary Search , Runtime Analysis & Big-O-Notation  |
 | [Generics&Collections](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/Generics&Collections) |Generics , Collections , Streams , Exceptions , Regex , Junit  |
+| [Java-8](https://github.com/yuvichaudhary/BridgeLabz-SIPP-Training/tree/Java-8) |Lambda Expressions , Functional Interfaces |
 
 
 ## 📆 Week 01: Core Java  
