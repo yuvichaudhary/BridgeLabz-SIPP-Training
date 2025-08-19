@@ -7,6 +7,8 @@ This repository contains training materials, exercises, and code for the BridgeL
 
 > • ✅ *DSA*
 
+> • ✅ *Generics&Collections*
+
 
 ## Contents
 ## 📚 Branch Overview
