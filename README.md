@@ -9,6 +9,10 @@ This repository contains training materials, exercises, and code for the BridgeL
 
 > • ✅ *Generics&Collections*
 
+> • ✅ *Java-8*
+
+> • ✅ *Pseudo_code*
+
 
 ## Contents
 ## 📚 Branch Overview
