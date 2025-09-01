@@ -1,5 +1,4 @@
 Start
-
 Interface TaxCalculator:
     Method calculateTax(itemPrice): returns taxAmount
 
