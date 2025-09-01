@@ -1,4 +1,4 @@
-Start
+Start 
 CLASS Node
     ATTRIBUTES: stopName, next
 
