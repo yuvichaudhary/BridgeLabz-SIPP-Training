@@ -1,4 +1,4 @@
-// ===== TAX =====
+Start
 
 Interface TaxCalculator:
     Method calculateTax(itemPrice): returns taxAmount
@@ -17,9 +17,8 @@ Class ImportedTax implements TaxCalculator:
 
 Class LuxuryTax implements TaxCalculator:
     Method calculateTax(price):
-        Return price * 0.18  // additional during festivals
+        Return price * 0.18 
 
-// ===== DISCOUNT =====
 
 Interface DiscountPolicy:
     Method applyDiscount(totalAmount): returns discountedAmount
@@ -40,10 +39,8 @@ Class PercentageDiscount implements DiscountPolicy:
 
 Class BuyOneGetOne implements DiscountPolicy:
     Method applyDiscount(amount):
-        // Logic to remove price of cheapest item
         Return amount - cheapestItemPrice
 
-// ===== BILLING PROCESS =====
 
 Class MenuItem:
     Attributes: name, basePrice, TaxCalculator tax
@@ -62,3 +59,4 @@ Class Bill:
 
         finalAmount = discount.applyDiscount(total)
         Return finalAmount
+End
