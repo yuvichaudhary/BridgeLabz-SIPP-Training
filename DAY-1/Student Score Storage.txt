@@ -1,4 +1,4 @@
-Start
+Start 
 class Student:
 	MAP studentScore(key : String , value:Integer)
 	ADD(Abhay , 95) to studentScore
