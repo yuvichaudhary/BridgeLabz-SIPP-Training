@@ -1,3 +1,4 @@
+Start
 Class TextEditor:
     Attribute: text, undoStack (Stack)
 
@@ -15,3 +16,4 @@ Class TextEditor:
 
     Method print():
         Print "Current Text: " + text
+End
