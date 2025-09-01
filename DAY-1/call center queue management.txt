@@ -1,3 +1,4 @@
+Start
 Class Customer:
     Attribute: name, isEmergency
     Constructor(name, isEmergency):
@@ -25,3 +26,4 @@ Function getNextCustomer():
         Return normalQueue.dequeue()
     Else:
         Return null
+End
