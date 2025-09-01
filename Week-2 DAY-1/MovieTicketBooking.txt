@@ -1,4 +1,4 @@
-Start
+Start 
 CLASS Ticket
     ATTRIBUTES: movieName, seatNumber, price, status
     METHOD cancel()
