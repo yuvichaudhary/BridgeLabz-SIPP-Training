@@ -1,0 +1,15 @@
+Start
+CLASS Transaction<T>(details)
+    METHOD process() → details.process()
+
+CLASS UPI(id,amt,merchant)
+    METHOD process() PRINT "amt via UPI for merchant"
+CLASS Card(num,amt)
+    METHOD process() PRINT "amt via Card"
+CLASS NetBank(bank,amt)
+    METHOD process() PRINT "amt via NetBank"
+
+MAIN
+    t1=Transaction(UPI("u@upi",1200,"Amazon")) → t1.process()
+    t2=Transaction(Card("1234",5000)) → t2.process()
+End

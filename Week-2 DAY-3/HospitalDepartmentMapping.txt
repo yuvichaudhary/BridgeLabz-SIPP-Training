@@ -1,0 +1,10 @@
+Start
+CLASS Doctor(name,spec,exp)
+
+MAIN
+    map = {
+      "Cardiology":[Dr("Mehta","Cardio",15)],
+      "Neurology":[Dr("Sharma","Neuro",10)]
+    }
+    FOR d in map["Neurology"] PRINT d.name,d.exp
+End

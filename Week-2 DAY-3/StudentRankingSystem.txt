@@ -1,0 +1,21 @@
+Start
+CLASS Student(name,marks)
+
+FUNCTION sort(list)
+    IF size<=1 RETURN list
+    mid=size/2
+    left=sort(left), right=sort(right)
+    RETURN merge(left,right)
+
+FUNCTION merge(L,R)
+    result=[]
+    WHILE L,R not empty
+        COMPARE marks DESC, name ASC
+        ADD smaller to result
+    RETURN result+remaining
+
+MAIN
+    students=[("Amit",92),("Bhavna",92),("Kiran",85)]
+    sorted=sort(students)
+    PRINT sorted
+End

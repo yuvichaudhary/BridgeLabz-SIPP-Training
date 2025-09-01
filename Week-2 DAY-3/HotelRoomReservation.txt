@@ -1,0 +1,12 @@
+Start
+CLASS Room(roomNo, custName, days)
+    METHOD bill() RETURN 0
+CLASS Deluxe EXTENDS Room
+    bill=days*3000
+CLASS Suite EXTENDS Room
+    bill=days*5000
+
+MAIN
+    r=Deluxe("101","Ravi",3) → PRINT r.bill()
+    s=Suite("201","Anita",2) → PRINT s.bill()
+End

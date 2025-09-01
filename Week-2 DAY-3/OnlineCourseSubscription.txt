@@ -1,0 +1,15 @@
+Start
+CLASS Course(title, duration, price)
+
+CLASS Student(name, email)
+    enrolledCourses = []
+    METHOD enroll(course)
+        IF course NOT in enrolledCourses → ADD
+    METHOD view()
+        PRINT enrolledCourses
+
+MAIN
+    c1=Course("Java",6,4999), c2=Course("DS",8,5999)
+    s1=Student("Amit","a@mail")
+    s1.enroll(c1), s1.enroll(c2), s1.view()
+End

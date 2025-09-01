@@ -1,0 +1,13 @@
+Start
+FUNCTION search(arr,target)
+    l=0,r=len(arr)-1
+    WHILE l<=r
+        m=(l+r)/2
+        IF arr[m]==target RETURN TRUE
+        IF arr[m]<target → l=m+1 ELSE r=m-1
+    RETURN FALSE
+
+MAIN
+    catalog=["AirPods","Camera","Laptop","Shoes"]
+    PRINT search(catalog,"Laptop")
+End
