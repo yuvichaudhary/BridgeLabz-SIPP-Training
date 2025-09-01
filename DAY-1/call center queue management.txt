@@ -1,4 +1,4 @@
-Start
+Start 
 Class Customer:
     Attribute: name, isEmergency
     Constructor(name, isEmergency):
