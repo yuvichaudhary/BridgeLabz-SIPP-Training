@@ -1,4 +1,4 @@
-Start
+Start 
 CLASS Employee
     ATTRIBUTE name
     ATTRIBUTE department
