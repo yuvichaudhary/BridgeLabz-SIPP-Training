@@ -1,0 +1,33 @@
+Start
+CLASS User
+    ATTRIBUTES:
+        username
+        password
+    METHOD login()
+        PRINT "Checking credentials..."
+
+CLASS Student EXTENDS User
+    ATTRIBUTE:
+        enrolledCourses
+    METHOD login()
+        IF username and password are valid AND student is enrolled
+            PRINT "Access granted. Show available exams."
+        ELSE
+            PRINT "Login failed."
+
+CLASS Admin EXTENDS User
+    ATTRIBUTE:
+        adminPrivileges
+    METHOD login()
+        IF username and password are valid AND adminPrivileges = TRUE
+            PRINT "Access granted. Show exam management tools."
+        ELSE
+            PRINT "Login failed."
+
+MAIN
+    student = Student("john123", "pass123", enrolledCourses=TRUE)
+    student.login()
+
+    admin = Admin("admin01", "securePass", adminPrivileges=TRUE)
+    admin.login()
+End

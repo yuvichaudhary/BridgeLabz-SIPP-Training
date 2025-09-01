@@ -1,0 +1,14 @@
+Start
+FUNCTION wordCounter(text)
+    CLEAN text → lowercase, remove punctuation
+    SPLIT words by space
+    CREATE map wordCount
+
+    FOR each word in words
+        wordCount[word] += 1
+
+    PRINT all word → count
+    FIND most frequent word
+    PRINT "Most frequent:", word
+End
+

@@ -1,0 +1,32 @@
+Start
+CLASS Vehicle
+    ATTRIBUTES:
+        vehicleNumber
+        entryTime
+    METHOD calculateFee(exitTime)
+        RETURN 0
+
+CLASS Car EXTENDS Vehicle
+    METHOD calculateFee(exitTime)
+        hours = ceil(exitTime - entryTime)
+        RETURN 50 + (hours - 1) * 30
+
+CLASS Bike EXTENDS Vehicle
+    METHOD calculateFee(exitTime)
+        hours = ceil(exitTime - entryTime)
+        RETURN 20 + (hours - 1) * 10
+
+CLASS Truck EXTENDS Vehicle
+    METHOD calculateFee(exitTime)
+        hours = ceil(exitTime - entryTime)
+        RETURN 100 + (hours - 1) * 50
+
+MAIN
+    car = Car("KA05AB1234", 10:00)
+    bike = Bike("KA05XY7890", 11:15)
+    truck = Truck("KA09TR5566", 09:30)
+
+    PRINT car.vehicleNumber, car.calculateFee(13:30)
+    PRINT bike.vehicleNumber, bike.calculateFee(12:00)
+    PRINT truck.vehicleNumber, truck.calculateFee(14:00)
+End

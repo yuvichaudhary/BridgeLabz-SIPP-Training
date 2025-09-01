@@ -1,0 +1,27 @@
+Start
+CLASS SurveyResponse
+    ATTRIBUTES:
+        restaurantName
+        rating
+
+FUNCTION generateReport(responses)
+    GROUP responses BY restaurantName
+    CALCULATE average rating per restaurant
+
+    PRINT all restaurants → average rating
+    FIND restaurant with max rating → PRINT "Best"
+    FIND restaurant with min rating → PRINT "Needs Improvement"
+
+MAIN
+    responses = [
+        SurveyResponse("PizzaHut", 4),
+        SurveyResponse("PizzaHut", 5),
+        SurveyResponse("KFC", 3),
+        SurveyResponse("KFC", 4),
+        SurveyResponse("Subway", 5),
+        SurveyResponse("Subway", 4),
+        SurveyResponse("Subway", 5)
+    ]
+
+    generateReport(responses)
+End
