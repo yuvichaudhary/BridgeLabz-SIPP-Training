@@ -1,3 +1,4 @@
+Start
 class Student:
 	MAP studentScore(key : String , value:Integer)
 	ADD(Abhay , 95) to studentScore
@@ -13,3 +14,4 @@ class Student:
         SET topScorer = name
 
 PRINT "Top Scorer: " + topScorer
+End
