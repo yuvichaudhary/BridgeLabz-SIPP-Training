@@ -1,4 +1,4 @@
-Start
+Start 
 class pet :
 	attribute name,
 	attribute age,
