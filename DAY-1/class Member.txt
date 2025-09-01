@@ -1,3 +1,4 @@
+Start
 class Member:
 	attributes:
 		name , id,membershipDate , membership_duration_in_years
@@ -30,3 +31,4 @@ class main:
 	PRINT member1.check_membership_validity(today_date)
 
 	member1.display_member_info()
+End
