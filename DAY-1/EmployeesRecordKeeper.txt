@@ -1,3 +1,4 @@
+Start
 CLASS Employee
     ATTRIBUTE name
     ATTRIBUTE department
@@ -22,3 +23,4 @@ FOR EACH employee IN employees
 
 FOR EACH employee IN itEmployees
     CALL employee.print()
+End
