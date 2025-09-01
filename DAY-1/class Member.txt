@@ -1,4 +1,4 @@
-Start
+Start 
 class Member:
 	attributes:
 		name , id,membershipDate , membership_duration_in_years
