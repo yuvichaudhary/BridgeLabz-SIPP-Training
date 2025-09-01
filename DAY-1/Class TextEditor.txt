@@ -1,4 +1,4 @@
-Start
+Start 
 Class TextEditor:
     Attribute: text, undoStack (Stack)
 
