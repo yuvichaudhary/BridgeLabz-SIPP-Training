@@ -1,4 +1,4 @@
-Start
+Start 
 FUNCTION wordCounter(paragraph)
     CLEAN text: lowercase, remove punctuation
     SPLIT words by space
