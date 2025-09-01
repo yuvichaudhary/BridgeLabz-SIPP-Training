@@ -1,4 +1,4 @@
-Start
+Start 
 CLASS AttendanceSystem
     ATTRIBUTES: records[students][days]
     METHOD markAttendance(student, day, status)
