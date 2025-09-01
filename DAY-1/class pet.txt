@@ -1,3 +1,4 @@
+Start
 class pet :
 	attribute name,
 	attribute age,
@@ -43,6 +44,7 @@ class Bird inherits pet:
 	Method display_info():
         Call super.display_info()
         Print "Trained: " + is_speak
+End
 	
 
 
